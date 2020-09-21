@@ -196,4 +196,5 @@ Hutool欢迎任何人为Hutool添砖加瓦，贡献代码，不过作者是一�
 
 点击以下链接，将页面拉到最下方点击“捐赠”即可。
 
+1
 [前往捐赠](https://gitee.com/loolly/hutool)
